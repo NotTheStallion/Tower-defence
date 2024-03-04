@@ -1,0 +1,9 @@
+---
+AlignAfterOpenBracket: AlwaysBreak
+AlignEscapedNewlines: Left
+AlignOperands: 'true'
+AlignTrailingComments: 'true'
+AllowAllArgumentsOnNextLine: 'true'
+ReflowComments: true
+ColumnLimit: 100
+
